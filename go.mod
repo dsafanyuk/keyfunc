@@ -1,4 +1,4 @@
-module github.com/MicahParks/keyfunc
+module github.com/dsafanyuk/keyfunc
 
 go 1.16
 
